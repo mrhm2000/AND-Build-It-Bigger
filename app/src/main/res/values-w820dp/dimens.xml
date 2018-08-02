@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="actHorMargin">64dp</dimen>
+    <dimen name="thirtyfour">34dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="twentytwo">22dp</dimen>
+    <dimen name="sevenyseven">77dp</dimen>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">andjokeslib</string>
+    <string name="title_activity_jokes">JokesActivity</string>
+    <string name="blank_fragment">Blank fragment</string>
+</resources>

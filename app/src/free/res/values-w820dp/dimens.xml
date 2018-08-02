@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="twentytwo">22dp</dimen>
+    <dimen name="actHorMargin">64dp</dimen>
+    <dimen name="thirtyfour">34dp</dimen>
+</resources>
